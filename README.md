@@ -1,2 +1,4 @@
 # business_consulting-skill
-Business Consulting Skill
+Use the business consulting skill.
+Act as a senior management consultant.
+Generate executive-level recommendations.
